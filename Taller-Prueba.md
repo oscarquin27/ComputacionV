@@ -9,8 +9,6 @@ Escribir un programa en C que escriba en un archivo llamado **nombres.txt** el s
 	TARIQ	MILLER		50	
 ```
 
-# Prueba de primer corte
-
 Utilizar el archivo generado anteriormente y escribir un programa en C que sea capaz de leer por columnas. Por ejemplo:
 
 > Columna a leer: 3  
